@@ -3,7 +3,7 @@
 1- [class="navbar-brand gluo-logo-telcel"]
 2- #buscador-menu-input-contenedor
 3- div.personas>a.dropdown-toggle
-4- No la mejor: [title="icono paquetes y recargas"]
+4- [title="icono paquetes y recargas"]
 5- Encuentra dos: [class="destacado-descriptivo parbase aem-GridColumn aem-GridColumn--default--12"]>[class="container-fluid telcel-destacado-descriptivo"]>[class="row"]>[class="col-sm-12 col-md-offset-1 col-md-10 telcel-destacado-descriptivo---contenedor"]>[rel=" noopener noreferrer"]>div.telcel-destacado-descriptivo---contenido  >div.telcel-destacado-descriptivo---contenido-contenedor>[class="telcel-controles-cta telcel-controles-cta--inline-block"]
 
 //XPath
